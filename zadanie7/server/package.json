@@ -1,0 +1,13 @@
+{
+  "name": "zadanie6-payment-server",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "bun run --watch src/index.ts"
+  },
+  "dependencies": {
+    "elysia": "latest"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}
